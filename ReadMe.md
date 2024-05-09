@@ -9,9 +9,7 @@
 
 [![NPM](https://img.shields.io/npm/v/otp-manager-react.svg)](https://www.npmjs.com/package/otp-manager-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## NPM Package Link
 
-https://www.npmjs.com/package/otp-manager-react
 
 ## Install
 
@@ -19,9 +17,7 @@ https://www.npmjs.com/package/otp-manager-react
 npm install --save otp-manager-react
 ```
 
-## Demo
 
-https://otp-manager-arun.netlify.app/
 
 ## Usage
 
@@ -81,8 +77,3 @@ export default App
 | verifyBtnClasses | Classes for the Verify OTP Button |
 | verifyBtnLabel | Display label for the Verify OTP Button |
 | action | callback function to be called after otp is verified |
-
-
-## License
- 
-MIT © [](https://github.com/)
